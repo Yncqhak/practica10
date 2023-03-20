@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(229, 172, 221);
+}
+nav{
+    background-color: rgb(227, 236, 178);
+}
+thead{
+    background-color: rgb(227, 183, 48);
+    color: rgb(68, 40, 83);
+    margin: 30px;
+}
